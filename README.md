@@ -1,9 +1,9 @@
-&#x20;\<div align="center">
+<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=200&section=header&text=Hey,%20I](https://capsule-render.vercel.app/api?type=waving\&color=0:111827,50:312e81,100:0891b2\&height=200\&section=header\&text=Hey,%20I)'m%20Yashnit&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Python%20Enthusiast%20%7C%20BCA%20Student&descAlignY=60&descSize=15" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=200&section=header&text=Hey,%20I](https://capsule-render.vercel.app/api?type=waving\&color=0:111827,50:312e81,100:0891b2\&height=200\&section=header\&text=Hey,%20I)'m%20Yashnit&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Python%20Enthusiast%20%7C%20BCA%20Student&descAlignY=60&descSize=15" width="100%" />
 
-\<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Turning+ideas+into+real+projects.;Learning+and+building+every+day.;Founder+of+Cloudyyyy](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=650\&lines=Building+digital+experiences.;Turning+ideas+into+real+projects.;Learning+and+building+every+day.;Founder+of+Cloudyyyy)." alt="Typing SVG" />
+<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Turning+ideas+into+real+projects.;Learning+and+building+every+day.;Founder+of+Cloudyyyy](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=650\&lines=Building+digital+experiences.;Turning+ideas+into+real+projects.;Learning+and+building+every+day.;Founder+of+Cloudyyyy)." alt="Typing SVG" />
 \</a>
 
 \<p>
