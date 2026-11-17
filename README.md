@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f43f5e,25:a855f7,50:6366f1,75:0ea5e9,100:14b8a6&height=260&section=header&text=Yashnit%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20Python%20Enthusiast%20%E2%80%A2%20BCA%20Student&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Yashnit Singh" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:f43f5e,25:a855f7,50:6366f1,75:0ea5e9,100:14b8a6&height=260&section=header&text=Yashnit%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20Python%20Enthusiast%20%E2%80%A2%20BCA%20Student&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Hey👋, I'm Yashnit" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Turning+ideas+into+real+projects.;Learning+and+building+every+day.;Founder+of+Cloudyyyy" alt="Typing SVG" />
